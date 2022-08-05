@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<Styles>
+<Style ss:ID="s1">
+<Font x:Family="Swiss" ss:Bold="1"/>
+<Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" /> 
+<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" /> 
+</Borders>
+</Style>
+<Style ss:ID="s2">
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" /> 
+<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" /> 
+</Borders>
+</Style>
+</Styles>
+<Worksheet ss:Name="Summary">
+<Table>
+<Row>
+<Cell ss:StyleID="s1"><Data ss:Type="String">GNSA REF#</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">Agreement No</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">Short Agreement No</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12091000001</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">XVFPFHD00000793966</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">793966</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">21031600610</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">XVFPTEZ00004051368</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">4051368</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">21031600611</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">XSHUBKO00004055749</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">4055749</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">21031600612</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">XVFPTEZ00004051473</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">4051473</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">21031801153</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">XSHUTHY00004064460</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">4064460</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">21031801154</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">XSHUNYL00004056339</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">4056339</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">21031801155</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">XTRAKOT00004058698</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">4058698</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">21031801157</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">XVFPMUR00004059847</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">4059847</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">21031801158</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">XVFPEVF00004056571</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">4056571</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">21031801159</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">XVFPMAL00004053971</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">4053971</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">21031801161</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">XVFPKLY00004061058</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">4061058</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">21031801162</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">XTRAMHN00004059963</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">4059963</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">21031801163</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">XVFPSDR00004060122</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">4060122</Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>
