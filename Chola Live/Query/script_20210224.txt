@@ -1,0 +1,3 @@
+alter table chola_trn_tspdcchqentry modify column chqentry_status int not null default 0;
+alter table chola_trn_tpdcentry modify column chq_status int not null default 0;
+alter table chola_trn_tpacket modify column packet_status int not null default 0;

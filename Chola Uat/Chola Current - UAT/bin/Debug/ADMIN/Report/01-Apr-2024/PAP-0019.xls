@@ -1,0 +1,2242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<Styles>
+<Style ss:ID="s1">
+<Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+<Font x:Family="Swiss" ss:Bold="1"/>
+<Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" /> 
+<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" /> 
+</Borders>
+</Style>
+<Style ss:ID="s2">
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" /> 
+<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" /> 
+</Borders>
+</Style>
+<Style ss:ID="s3">
+<Font x:Family="Swiss" ss:Bold="1"/>
+</Style>
+</Styles>
+<Worksheet ss:Name="19">
+<Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="202">
+<Row>
+<Cell ss:StyleID="s1"><Data ss:Type="String" x:Ticked="1">SNo</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String" x:Ticked="1">Cupboard No</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String" x:Ticked="1">Shelf No</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String" x:Ticked="1">Box No</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String" x:Ticked="1">GNSA Ref</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String" x:Ticked="1">Agreement No</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String" x:Ticked="1">Cheque No</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String" x:Ticked="1">Cheque Date</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String" x:Ticked="1">Cheque Amount</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092200998</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">716576</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">187</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">17619</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092200999</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">718092</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">648058</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">22450</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201000</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">718148</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">844189</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">7213</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">4</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201001</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">718461</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">875881</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">27330</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201005</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">725044</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">277583</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">22496</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201007</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">726251</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55032</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">10760</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">7</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201010</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">727791</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3368</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">10325</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201013</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">729801</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">193747</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">11200</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">9</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201014</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">729890</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">13038</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">93000</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">10</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201015</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">730406</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">24917</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">24750</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">11</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201017</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">730926</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">500148</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">9940</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">12</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201018</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">731831</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">86445</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">21320</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">13</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201020</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">733511</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">240597</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8956</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">14</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201021</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">736089</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">577267</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">7295</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">15</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201022</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">740265</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">194066</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">23612</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">16</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201024</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">741664</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">131686</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">13930</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">17</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201026</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">744605</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">600433</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5625</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">18</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201028</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">747537</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">456406</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">18650</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">19</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201029</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">749869</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">441308</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">16322</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">20</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201030</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">750721</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">115241</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">29350</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">21</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201031</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">755120</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">88277</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">10572</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">22</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201032</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">756025</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">561045</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">30330</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">23</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201033</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">756148</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">978669</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">9045</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">24</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201034</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">756635</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">211391</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">36150</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">25</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201036</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">756940</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">893235</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">9100</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">26</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201037</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">758419</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">233032</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">12910</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">27</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201039</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">759268</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">956265</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">10502</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">28</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201041</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">761442</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">508585</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">9015</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">29</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201043</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">762050</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">141537</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">52600</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">30</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201045</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">762509</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">506</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">14173</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">31</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201046</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">762956</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">617665</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">11440</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">32</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201048</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">763505</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1185</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">11010</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">33</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201049</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">763514</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">346562</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">29505</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">34</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201051</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">763881</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">135451</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">24586</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">35</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201052</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">765090</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">357545</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">26740</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">36</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201053</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">767245</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">4055</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">11540</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">37</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201056</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">770907</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">642254</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">9290</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">38</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201057</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">772146</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">16</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8970</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">39</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201059</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">773510</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">397819</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">15015</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">40</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201061</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">773707</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">441780</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">9960</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">41</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201066</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">778702</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">303394</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">19800</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">42</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201067</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">778818</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">981304</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">10252</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">43</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201079</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">556865</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">957361</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">20500</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">44</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201081</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">557464</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">31962</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">19700</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">45</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201085</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">560132</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8351</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">14300</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">46</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201116</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">572576</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">23221</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6390</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">47</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201117</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">573635</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">619</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">23410</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">48</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201124</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">575816</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">25072</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">20650</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">49</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201125</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">576292</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">218221</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">30000</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">50</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201128</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">577662</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">552349</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">22675</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">51</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201131</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">580464</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">437273</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">37330</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">52</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201140</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">585126</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">306170</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">84225</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">53</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201142</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">586509</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">175</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">10650</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">54</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201145</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">590052</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">825567</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">13850</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201146</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">591642</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">796594</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">10500</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201152</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">595499</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">158872</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">12550</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">57</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201155</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">596612</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">891842</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55150</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">58</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201156</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">599061</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">736587</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">17000</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">59</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201160</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">564924</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">314420</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">24200</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">60</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201161</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">565780</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">59035</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">23950</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">61</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201163</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">566898</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">52311</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">7900</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">62</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201164</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">566989</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8690</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">11860</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">63</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201169</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">571105</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">438320</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">7400</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">64</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201172</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">573414</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">94</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">18000</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">65</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201173</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">573655</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">510969</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">49820</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">66</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201174</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">574516</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">311166</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">43655</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">67</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201177</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">575092</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">10</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">21760</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">68</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201182</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">577081</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">49193</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">9755</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">69</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201183</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">577796</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">575281</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">12515</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">70</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201184</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">579281</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2523</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">29235</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">71</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201187</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">580407</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">9668</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">46800</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">72</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201188</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">581014</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">364201</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">21700</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">73</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201189</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">581321</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">663197</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">22625</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">74</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201195</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">586175</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">522</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">21700</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">75</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201197</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">589136</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">692</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">13710</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">76</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201199</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">589907</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">242</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">10350</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">77</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201200</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">590393</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">517611</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">45270</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">78</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201201</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">590798</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">122237</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">16270</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">79</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201203</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">591754</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">25618</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8595</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">80</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201204</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">591790</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">53542</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8080</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">81</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201212</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">596763</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">536809</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">14740</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">82</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201215</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">600216</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">53900</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">83</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201216</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">600808</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">55201</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">28520</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">84</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201217</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">601036</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">107967</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">22600</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">85</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201218</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">602425</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8021</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">63260</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">86</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201220</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">603049</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">28066</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8540</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">87</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201225</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">605561</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5566</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">21400</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">88</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201226</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">605992</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">281717</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">9080</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">89</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201227</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">607862</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">605536</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">7190</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">90</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201228</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">610529</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">26824</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8140</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">91</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201229</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">610531</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">942067</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">14500</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">92</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201230</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">611380</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">18770</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">93</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201232</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">611770</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">701195</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8442</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">94</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201235</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">613204</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">7280</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5840</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">95</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201246</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">624048</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">46458</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">7250</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">96</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201247</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">626707</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">523113</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">33600</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">97</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201248</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">628813</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">27914</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">28300</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">98</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201249</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">629071</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">4439</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">7160</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">99</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201254</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">634791</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">116</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">28570</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">100</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201255</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">634921</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8613</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">20050</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">101</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201256</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">635431</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">517933</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">24700</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">102</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201257</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">722563</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">787600</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">36325</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">103</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201258</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">722579</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">303977</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">11160</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">104</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201260</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">722871</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">54982</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6100</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">105</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201262</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">724696</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">30647</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">12050</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">106</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201266</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">725958</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">840127</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8680</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">107</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201267</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">726418</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">307657</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">13850</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">108</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201269</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">727030</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">649732</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">15025</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">109</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201272</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">727839</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">123232</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6400</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">110</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201275</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">727913</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">7</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">20960</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">111</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201277</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">728406</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">185257</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8500</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">112</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201278</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">729914</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6310</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">13110</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">113</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201281</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">730712</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1650</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">42840</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">114</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201283</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">732568</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">185342</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">46100</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">115</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201285</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">733054</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">104072</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6575</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">116</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201287</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">734110</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">507428</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8620</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">117</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201288</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">734304</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">288857</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">27300</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">118</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201294</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">737219</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">14</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">25000</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">119</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201300</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">741493</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8854</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">23210</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">120</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201301</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">741530</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6736</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5820</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">121</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201302</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">741601</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">11906</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">19700</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">122</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201305</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">743850</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">382281</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">4970</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">123</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201307</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">743916</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">462681</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">9510</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">124</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201308</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">744481</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">608281</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">9370</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">125</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201314</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">748184</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">44966</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">29100</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">126</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201315</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">748487</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">13256</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">11420</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">127</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201316</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">749515</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">76781</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">12765</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">128</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201319</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">753812</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">25600</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">129</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201320</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">754329</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">659833</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">10320</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">130</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201322</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">754408</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">584030</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2900</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">131</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201323</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">754678</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">15825</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6620</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">132</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201325</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">755570</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">260736</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">7950</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">133</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201329</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">756562</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">11165</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">9255</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">134</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201330</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">757358</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">477</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">23700</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">135</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201335</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">759121</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">180205</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">9450</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">136</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201337</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">759440</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">125</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">68375</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">137</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201340</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">761136</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">14227</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">12800</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">138</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201342</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">761299</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">13930</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5740</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">139</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201345</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">761782</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">76</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8020</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">140</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201346</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">761988</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">402380</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6710</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">141</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201347</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">762307</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">561236</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">20050</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">142</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201348</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">762685</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">517305</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">11310</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">143</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201349</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">763576</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">107095</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">24810</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">144</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201350</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">764055</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">5</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">7010</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">145</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201351</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">764640</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">17905</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">9080</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">146</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201352</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">764697</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">120976</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">45720</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">147</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201354</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">764956</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">38465</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">17000</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">148</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201355</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">764993</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">531787</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">21310</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">149</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201356</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">765932</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">539230</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">30800</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">150</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201358</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">769504</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">29</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">17860</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">151</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201359</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">769570</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">803290</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8970</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">152</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201360</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">769582</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">9</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">14370</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">153</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201361</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">769678</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">535081</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">20340</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">154</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201362</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">770306</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">309755</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">70100</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">155</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201363</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">770355</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">697384</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">16050</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">156</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201367</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">771209</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">11752</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">11000</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">157</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201368</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">771262</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">16283</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">13120</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">158</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201371</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">772281</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">308135</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">19125</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">159</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201372</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">772998</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">18</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">13290</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">160</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201373</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">773063</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">742205</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">15840</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">161</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201374</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">773286</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">828729</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">7580</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">162</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201375</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">773738</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1294</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">16605</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">163</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201376</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">774494</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">395188</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">13770</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">164</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201377</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">774772</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">351554</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">10000</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">165</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201381</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">776968</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">17894</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">9450</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">166</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201383</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">777191</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">789804</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">7000</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">167</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201385</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">778457</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">32342</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">7950</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">168</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201387</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">780246</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">7100</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">169</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201391</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">781409</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">4</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">7650</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">170</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201393</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">781848</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">104</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">28470</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">171</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201394</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">785229</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">4465</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8950</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">172</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201397</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">785792</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">557614</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">7585</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">173</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201398</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">785851</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">500460</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">20120</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">174</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201403</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">788302</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">826481</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">28470</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">175</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201404</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">788365</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">826463</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">29270</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">176</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201408</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">790513</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">616023</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">13190</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">177</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201409</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">791946</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">566452</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">24750</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">178</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201411</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">793683</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">27630</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">179</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201413</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">793904</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">33859</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">25600</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">180</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201414</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">794586</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">101278</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">14340</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">181</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201418</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">796334</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">93479</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">12230</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">182</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201419</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">797695</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">890168</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">17200</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">183</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201441</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">574030</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">961669</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">12486</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">184</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201444</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">614657</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">29068</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">25168</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">185</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201445</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">635117</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">108103</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">11227</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">186</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201447</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">658170</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">25042</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">11916</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">187</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201449</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">666217</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">516126</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">10226</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">188</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201451</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">676915</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">60301</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">27812</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">189</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201456</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">686248</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">215750</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">11644</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">190</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201459</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">693702</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3478</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">44024</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">191</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201460</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">712457</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">218588</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">30191</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">192</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201461</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">724275</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8182</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">28450</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">193</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201470</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">527343</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3017</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8600</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">194</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201474</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">603779</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">575396</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">6650</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">195</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201475</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">611795</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">502365</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">16250</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">196</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201477</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">624423</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">522564</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">42500</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">197</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201478</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">651426</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">501823</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">12870</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">198</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201479</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">656919</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">62242</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">14700</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">199</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201486</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">676571</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">90335</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">14250</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">200</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">56</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">P12092201488</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">681782</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">508030</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">8500</Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>

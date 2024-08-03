@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<Styles>
+<Style ss:ID="s1">
+<Font x:Family="Swiss" ss:Bold="1"/>
+<Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" /> 
+<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" /> 
+</Borders>
+</Style>
+<Style ss:ID="s2">
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" /> 
+<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" /> 
+</Borders>
+</Style>
+</Styles>
+<Worksheet ss:Name="BatchDepositSlip">
+<Table>
+<Row>
+<Cell ss:StyleID="s1"><Data ss:Type="String">Deposit Slip No</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">Batch No</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">Total Cheque Count</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">Cycle Date</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">Total Cheque Amount</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">Product</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">Location</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">1</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">2</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">201</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">01-11-2012</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">3825561.00</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">PAP</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">CHENNAI</Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>

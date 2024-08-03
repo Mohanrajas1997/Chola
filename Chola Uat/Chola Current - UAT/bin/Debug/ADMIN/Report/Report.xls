@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<Styles>
+<Style ss:ID="s1">
+<Font x:Family="Swiss" ss:Bold="1"/>
+<Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" /> 
+<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" /> 
+</Borders>
+</Style>
+<Style ss:ID="s2">
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" /> 
+<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" /> 
+</Borders>
+</Style>
+</Styles>
+<Worksheet ss:Name="Report">
+<Table>
+<Row>
+<Cell ss:StyleID="s1"><Data ss:Type="String">Agreement No</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">GNSAREF</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">Mode</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">Cupboard No</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">Shelf No</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">Box No</Data></Cell>
+<Cell ss:StyleID="s1"><Data ss:Type="String">Remark</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">XVFPNAY00005490912</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">23061900008</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1"></Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1"></Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1"></Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1"></Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">XVFPBAS00005552123</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1">23061900007</Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1"></Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1"></Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1"></Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1"></Data></Cell>
+<Cell ss:StyleID="s2"><Data ss:Type="String" x:Ticked="1"></Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>
